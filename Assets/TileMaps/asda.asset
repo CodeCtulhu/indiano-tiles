@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e51d802758ad25347a6b5373676f47ca, type: 3}
+  m_Name: asda
+  m_EditorClassIdentifier: 
+  tileSequence:
+  - tile:
+      yAxisOrigin: 6
+      yAxisEnd: 8
+      tileYSize: 2
+      tileType: 0
+    tileTimePosStart: 0
+  - tile:
+      yAxisOrigin: 8
+      yAxisEnd: 10
+      tileYSize: 2
+      tileType: 0
+    tileTimePosStart: 2
+  - tile:
+      yAxisOrigin: 10
+      yAxisEnd: 11.09
+      tileYSize: 1.0900002
+      tileType: 1
+    tileTimePosStart: 4
+  - tile:
+      yAxisOrigin: 11.09
+      yAxisEnd: 11.79
+      tileYSize: 0.6999998
+      tileType: 1
+    tileTimePosStart: 5.09
+  - tile:
+      yAxisOrigin: 11.79
+      yAxisEnd: 13.07
+      tileYSize: 1.2799997
+      tileType: 1
+    tileTimePosStart: 5.79
+  - tile:
+      yAxisOrigin: 13.07
+      yAxisEnd: 14.89
+      tileYSize: 1.8200006
+      tileType: 1
+    tileTimePosStart: 7.0699997
+  - tile:
+      yAxisOrigin: 14.89
+      yAxisEnd: 16.89
+      tileYSize: 2
+      tileType: 0
+    tileTimePosStart: 8.89
+  - tile:
+      yAxisOrigin: 16.89
+      yAxisEnd: 18.89
+      tileYSize: 2
+      tileType: 0
+    tileTimePosStart: 10.889999
+  musicTrack: {fileID: 8300000, guid: 604b174a6f818a745b14fcd462e89103, type: 3}
